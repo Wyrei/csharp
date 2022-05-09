@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace opdracht_1
 {
-    int healt;
-    int name;
-    int energy;
+    
     class Class1
     {
+        int healt;
+        int name;
+        int energy;
     }
 }
